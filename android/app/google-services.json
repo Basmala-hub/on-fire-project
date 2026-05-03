@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143752407185",
+    "project_id": "on-fire-5d5c2",
+    "storage_bucket": "on-fire-5d5c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143752407185:android:8e205117ac6c0d2a1cb730",
+        "android_client_info": {
+          "package_name": "com.example.on_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYgyZeuT3P3m3lJcFg7d_cv4-DBhYikWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
