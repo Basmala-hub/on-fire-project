@@ -24,6 +24,34 @@ The project follows Clean Architecture principles to ensure scalability, maintai
 
 ---
 
+## 📸 App Screenshots
+
+### 🔥 Splash & Icon
+
+<p align="center">
+  <img src="assets/screenshots/splash.jpeg" width="220"/>
+  <img src="assets/screenshots/icon.jpeg" width="220"/>
+</p>
+
+---
+
+### 📊 Dashboard & Analytics
+
+<p align="center">
+  <img src="assets/screenshots/dashboard.jpeg" width="250"/>
+  <img src="assets/screenshots/analytics.jpeg" width="250"/>
+</p>
+
+---
+
+### 🚨 Alerts System
+
+<p align="center">
+  <img src="assets/screenshots/alerts.jpeg" width="250"/>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Mobile App
@@ -76,12 +104,6 @@ The project follows Clean Architecture principles to ensure scalability, maintai
 git clone https://github.com/Basmala-hub/on-fire-project.git  
 cd on-fire-project  
 flutter pub get  
-
----
-
-## ▶️ Run Project
-
-flutter run  
 
 ---
 

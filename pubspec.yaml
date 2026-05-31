@@ -72,6 +72,7 @@ flutter:
   assets:
     - assets/images/image.png
     - assets/icons/
+    - assets/screenshots/
 
 # ❌ ممنوع تكون داخل flutter
 
