@@ -51,7 +51,60 @@ The project follows Clean Architecture principles to ensure scalability, maintai
 </p>
 
 ---
+## 🧠 Architecture & Design Principles
 
+This project was built using **Clean Architecture** to ensure scalability, maintainability, and separation of concerns across all layers of the application.
+
+---
+
+### 🏗️ Clean Architecture
+
+The project is divided into three main layers:
+
+- **Presentation Layer**
+  - UI Screens (Flutter Widgets)
+  - State Management (Cubit/Bloc)
+  - Handles user interactions
+
+- **Domain Layer**
+  - Business Logic
+  - Use Cases
+  - Entities
+
+- **Data Layer**
+  - Repository Implementations
+  - Firebase Realtime Database Integration
+  - Data Sources (Remote / Local)
+
+---
+
+### ⚙️ SOLID Principles
+
+The project follows SOLID principles to improve code quality and maintainability:
+
+- **S** – Single Responsibility Principle (each class has one responsibility)
+- **O** – Open/Closed Principle (code is open for extension, closed for modification)
+- **L** – Liskov Substitution Principle (subtypes are replaceable)
+- **I** – Interface Segregation Principle (small focused interfaces)
+- **D** – Dependency Inversion Principle (depend on abstractions, not implementations)
+
+---
+
+### 🎨 Design Patterns Used
+
+- Repository Pattern (for data abstraction)
+- Singleton Pattern (for Firebase services)
+- MVC/MVVM-inspired structure in presentation layer
+- Dependency Injection (for managing services and decoupling modules)
+
+---
+
+### 🔥 Why This Architecture?
+
+- Easy to scale for future features (AI, Web Dashboard, etc.)
+- Clean separation between UI and business logic
+- Easier testing and debugging
+- Better maintainability for team collaboration
 ## 🛠️ Tech Stack
 
 ### Mobile App
